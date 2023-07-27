@@ -1,0 +1,1 @@
+export const gettoken =  JSON.parse(localStorage.getItem("getiemss"));
